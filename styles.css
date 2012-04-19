@@ -1,0 +1,55 @@
+body{
+		/*background-color: gray;*/
+		background: -webkit-radial-gradient(circle, #1a82f7, #2F2727);
+		/*border: 1px solid #bbb;
+		padding: : 10px;*/
+
+
+h1{
+	text-align: center;
+	padding: 10px;
+	
+}
+
+p{
+	text-align: center;
+}
+
+li li{
+	padding-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+form{
+	text-autospace: 10px;
+	background-color: 
+}
+
+a{
+	font: 16px Arial;
+	color: blue;
+	text-underline-position: 
+	padding: 10px;
+}
+
+fieldset{
+	font: 16px Arial;
+	/*background-color: #eee; */
+/*	border: 
+	padding: 
+}
+
+textarea{
+	width: 75%;
+	font: 16px Arial;
+	color: #555;
+	height: 100px;
+	line-height: 20px;
+	margin-top: 10px;
+}
+
+nav{
+	text-align: center;
+}
+
+*/
